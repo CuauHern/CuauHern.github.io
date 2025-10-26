@@ -58,6 +58,24 @@ Existen diversos factores en el abandono de clientes de la compañia, entre los 
 * Campañas informativas: Ofrecer información al cambio de tecnologías.
 * Campañas personalizadas: Utilizar el modelo predictivo para identificar clientes en riesgo y ofrecer promociones específicas
 
+### Gráficos destacados
+
+1. Proporción de abandono por tipo de contrato
+
+<img width="540" height="418" alt="image" src="https://github.com/user-attachments/assets/8b16b49b-25cf-4990-8320-a452b88c340b" />
+
+2. Abandono por tipo de servicio
+
+<img width="540" height="442" alt="image" src="https://github.com/user-attachments/assets/e8e9b259-2854-4f50-841d-4bba8406b22a" />
+
+3. Abandono por metodo de pago
+
+<img width="541" height="513" alt="image" src="https://github.com/user-attachments/assets/35f0ccfb-3fb1-41e8-a114-eaab5fc7b1b1" />
+
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/CuauHern/Analisis-predictivo-abandono-clientes).**
+
+
 <h1 align="center"> </h1>
 
 # 2. Impacto del clima en viajes de taxi
@@ -126,3 +144,5 @@ La prueba de hipótesis confirmó que los sábados lluviosos el viaje de Loop ha
 ## Estrategias recomendadas:
 
 * Al resultar la prueba de hipótesis negativa, no hay estrategias recomendadas ya que no hay cambios en los días lluviosos a uno normal.
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/CuauHern/Impacto-de-clima-y-viajes-de-taxi).**
