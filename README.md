@@ -1,6 +1,6 @@
 <h1 align="center">Acerca de mí</h1>
 
-Consultor de ITSM desde hace casi 16 años dedicado a la administración y configuración de entornos SQL Server, gestionando la mesa de servicio IT Help Center de LeverIT Soluciones bajo los lineamientos de ITIL. 
+`Consultor de ITSM` desde hace casi 16 años dedicado a la administración y configuración de entornos SQL Server, gestionando la mesa de servicio IT Help Center de LeverIT Soluciones bajo los lineamientos de ITIL. 
 
 Recientemente decidí dar el siguiente paso en mi carrera y formarme como `Data Scientist`. En este camino aprendí Python, el uso de Jupyter Notebook, y librerías como Pandas, NumPy, Matplotlib, Seaborn y Scikit-learn, enfocándome en el análisis, limpieza, visualización de datos y creación de modelos predictivos.
 
