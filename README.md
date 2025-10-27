@@ -60,15 +60,15 @@ Existen diversos factores en el abandono de clientes de la compañia, entre los 
 
 ### Gráficos destacados
 
-1. Proporción de abandono por tipo de contrato
+* Proporción de abandono por tipo de contrato
 
 <img width="540" height="418" alt="image" src="https://github.com/user-attachments/assets/8b16b49b-25cf-4990-8320-a452b88c340b" />
 
-2. Abandono por tipo de servicio
+* Abandono por tipo de servicio
 
 <img width="540" height="442" alt="image" src="https://github.com/user-attachments/assets/e8e9b259-2854-4f50-841d-4bba8406b22a" />
 
-3. Abandono por metodo de pago
+* Abandono por metodo de pago
 
 <img width="541" height="513" alt="image" src="https://github.com/user-attachments/assets/35f0ccfb-3fb1-41e8-a114-eaab5fc7b1b1" />
 
